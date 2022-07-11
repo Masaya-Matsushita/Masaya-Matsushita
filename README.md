@@ -3,13 +3,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Masaya-Matsushita&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Masaya-Matsushita&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![](https://raw.githubusercontent.com/Masaya-Matsushita/Masaya-Matsushita/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Masaya-Matsushita/Masaya-Matsushita/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Masaya-Matsushita/Masaya-Matsushita/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Masaya-Matsushita/Masaya-Matsushita/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Masaya-Matsushita/Masaya-Matsushita/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
