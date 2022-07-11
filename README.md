@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masaya-Matsushita&layout=compact&show_icons=true&theme=buefy" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Masaya-Matsushita&theme=buefy&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masaya-Matsushita&layout=compact&show_icons=true&theme=default" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Masaya-Matsushita&theme=default&show_icons=ture" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
