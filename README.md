@@ -17,5 +17,6 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97160510/190042781-033a8cb9-d1d2-4ca3-89ba-6b7f0a327dc3.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://jp.heroku.com/home" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97160510/190045591-e609943e-b9e9-4abc-a3ae-eb2ceebc1f36.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
